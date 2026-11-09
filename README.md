@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on Pavenow Mobile App
+🔭 I meet a new friend called Claude.
 
 
 ## 🌐 Socials:
